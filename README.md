@@ -21,8 +21,6 @@ El widget "MediaDetail" es un widget de Flutter que muestra información detalla
 
 ![image](https://github.com/JossAlvarado/DMI_Practica14_200687/assets/84793967/86a36678-89d5-4853-a23c-05bdd9dd4401)
 
-![image](https://github.com/JossAlvarado/DMI_Practica14_200687/assets/84793967/a222f8f8-b3d5-42a8-835c-cd1793914e4e)
-
 
 
 
